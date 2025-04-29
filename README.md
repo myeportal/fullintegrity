@@ -1,3 +1,5 @@
+THIS PROJECT WAS CLOSED IN 2014- 
+
 Fullintegritycoin integration/staging tree
 ================================
 
